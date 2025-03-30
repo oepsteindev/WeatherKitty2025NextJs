@@ -71,6 +71,7 @@ export default function WeatherByZip() {
       <br></br>
       <input
         type="text"
+        className="zip"
         value={zipCode}
         onChange={(e) => setZipCode(e.target.value)}
         placeholder="Enter ZIP Code"

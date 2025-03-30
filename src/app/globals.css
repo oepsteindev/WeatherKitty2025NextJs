@@ -52,6 +52,9 @@ p {
     margin: 10px 0; /* Control spacing between paragraphs */
 }
 
+.zip {
+  color: #000;
+}
 .grid {
   display: grid;
   grid-template-rows: min-content 1fr auto; /* Define row sizes */
