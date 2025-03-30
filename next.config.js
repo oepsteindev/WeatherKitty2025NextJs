@@ -1,5 +1,5 @@
 module.exports = {
   images: {
-    domains: ['static.scientificamerican.com'],
+    domains: ['static.scientificamerican.com', 'cats.com', 'i.imgur.com'],
   },
 };
