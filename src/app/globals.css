@@ -1,4 +1,6 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 :root {
   --background: #ffffff;
@@ -65,4 +67,3 @@ p {
     gap: 0.5rem;
   }
 }
-
